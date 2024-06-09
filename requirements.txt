@@ -5,5 +5,5 @@ pandas
 numpy
 scikit-learn
 joblib
-sqlite3
+sqlite
 python
